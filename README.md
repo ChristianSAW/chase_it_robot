@@ -31,7 +31,7 @@ Now, to actually lauch gazebo and spawn our robot in the created world, we navig
 ``` 
 $ cd chase_it_robot/catkin_ws
 $ source devel/setup.bash
-$ roslaunch my_robot my_robot world.launch
+$ roslaunch my_robot world.launch
 ```
 
 To make the robot chase the white ball, open up a new terminal, navigate to the top level catkin workspae, and execute, 
